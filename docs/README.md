@@ -7,5 +7,3 @@ Skyndalex is a multifunctional bot that offers very few features at the moment a
     - `v0.1`: First version of the bot
     - `v0.2`: Stability improvements
     - `v0.3`: Tickets system, maybe reactionroles
-
-Test
