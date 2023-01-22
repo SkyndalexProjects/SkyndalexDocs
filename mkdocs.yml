@@ -38,7 +38,11 @@ theme:
         separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
     - minify:
         minify_html: true
-  markdown_extensions:
+nav:
+  - Home: README.md
+  - Github Manager:
+      - Getting started: github-manager/getting-started.md
+markdown_extensions:
     - admonition
     - pymdownx.details
     - pymdownx.superfences
