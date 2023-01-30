@@ -1,19 +1,18 @@
 {
-  "name": "skyndalexdocs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "vuepress-theme-hope-template",
+  "version": "2.0.0",
+  "description": "A project of vuepress-theme-hope",
+  "license": "MIT",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "docs:build": "vuepress build src",
+    "docs:clean-dev": "vuepress dev src --clean-cache",
+    "docs:dev": "vuepress dev src"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SkyndalexProjects/SkyndalexDocs.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SkyndalexProjects/SkyndalexDocs/issues"
-  },
-  "homepage": "https://github.com/SkyndalexProjects/SkyndalexDocs#readme"
+  "devDependencies": {
+    "@vuepress/client": "2.0.0-beta.60",
+    "vue": "^3.2.45",
+    "vuepress": "2.0.0-beta.60",
+    "vuepress-theme-hope": "2.0.0-beta.168"
+  }
 }
