@@ -6,7 +6,7 @@ heroImage: /logo.svg
 heroText: Skyndalex docs
 tagline: Documentation for skyndalex docs
 actions:
-  - text: Go to docs
+  - text: Go to docs test
     link: /getting-started/
     type: primary
 
