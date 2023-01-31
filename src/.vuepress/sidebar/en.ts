@@ -5,11 +5,11 @@ export const enSidebar = sidebar({
     "",
     {
       icon: "discover",
-      text: "Getting started",
+      text: "Overview",
       prefix: "getting-started/",
       link: "getting-started/",
       children: [
-          "overview",
+          "",
           "using-commands"
       ],
     },
@@ -22,5 +22,15 @@ export const enSidebar = sidebar({
           "info"
       ],
     },
+    {
+      icon: "shell",
+      text: "Contributing",
+      prefix: "contributing/",
+      link: "contributing/",
+      children: [
+        "",
+      ],
+    },
   ],
+
 });

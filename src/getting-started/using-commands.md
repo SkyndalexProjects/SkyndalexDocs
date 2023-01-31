@@ -1,9 +1,11 @@
 ---
 title: Using commands
 index: false
-icon: discover
+icon: info
 category:
-- Guide
+- Getting started
+tag:
+- Getting started
 ---
 
 # Launching commands

@@ -1,9 +1,11 @@
 ---
-title: Github manager
+title: Settings
 index: false
-icon: discover
+icon: type
 category:
-- Docs
+- Github manager
+tag: 
+- Github manager
 ---
 
 # Github manager
@@ -11,5 +13,3 @@ category:
 ::: danger Soon 
 This page is not finished yet
 :::
-
-test
