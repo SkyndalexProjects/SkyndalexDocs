@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SkyndalexDocs.iml" filepath="$PROJECT_DIR$/.idea/SkyndalexDocs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SkyndalexDocs.iml" filepath="$PROJECT_DIR$/SkyndalexDocs.iml" />
     </modules>
   </component>
 </project>
