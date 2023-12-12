@@ -8,6 +8,10 @@
 
 ## Whitelist
 
+!!! danger
+
+    Some generated photos may be inappropriate for other users.
+    We are recommending marking the channel as NSFW.
 
 !!! info
 
